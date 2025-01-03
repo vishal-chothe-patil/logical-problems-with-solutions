@@ -15,6 +15,9 @@ This is a curated collection of frequently asked Java problems that focus on fin
 - **Locating duplicate elements from an array:** Finding the repeated elements within an array of integers.
 - **Calculating the factorial of a number:** Computing the factorial value of a given number using iterative or recursive methods.
 - **Determining the smallest and largest numbers in an array:** Identifying both the minimum and maximum values in an integer array.
+- **Determining the Lexicographically Smallest and Largest Strings in an Array:** Identifying both the minimum and maximum String in an given Array.
+- **Finding the Middle Value in a Sorted Array of Numbers:** Identifying middle of Number in an Array.
+- **Finding the Lexicographical Middle String in an Array:** Identifying middle of String in an Array.
 - **Identifying the missing number in an array:** Finding the number missing from a sequence of numbers.
 - **Finding the second largest element in an array:** Identifying the second largest number in a given array of integers.
 - **Locating the second smallest number in an array:** Identifying the second smallest number in a given array of integers.

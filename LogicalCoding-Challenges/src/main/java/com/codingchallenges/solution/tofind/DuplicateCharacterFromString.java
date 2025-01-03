@@ -4,7 +4,7 @@ public class DuplicateCharacterFromString {
 
 	public static void main(String[] args) {
 
-		String str = "hello";
+		String str = "Chothe Patil";
 
 		// Loop to find duplicates
 		for (int i = 0; i < str.length(); i++) {

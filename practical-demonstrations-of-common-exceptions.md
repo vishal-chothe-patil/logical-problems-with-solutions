@@ -10,29 +10,30 @@ Explore hands-on examples that demonstrate how to identify, understand, and hand
 ### **Basic Exceptions** ⚠️
 This section contains Java programs demonstrating various common exceptions, along with a brief explanation for each. These exceptions are critical to understanding error handling in Java.
 
-**1. Write a program to demonstrate `NullPointerException` in Java.**
+**1. Write a program to demonstrate `NullPointerException` in Java with an example?**
    - _This exception occurs when you try to invoke a method or access a field on a null object reference._  
-     - **Solution**: Accessing a method on a null object triggers a `NullPointerException`.
+     - **Explanation**: This exception occurs when you attempt to access or modify a null object. Example: Trying to call a method (length()) on a null object.
 
-**2. Write a program to demonstrate `ArithmeticException` (division by zero) in Java.**
+**2. Write a program to demonstrate `ArithmeticException` in Java with an example of division by zero?**
    - _It happens when an arithmetic operation, such as division by zero, is attempted._  
-     - **Solution**: Dividing by zero causes an `ArithmeticException` to be thrown.
+     - **Explanation**: This exception occurs when a number is divided by zero, which is mathematically undefined.
 
-**3. Write a program to demonstrate `ArrayIndexOutOfBoundsException` in Java.**
+**3. Write a program to demonstrate `ArrayIndexOutOfBoundsException` in Java? Write an example.**
    - _This exception is thrown when you try to access an invalid index of an array._  
-     - **Solution**: Trying to access an invalid array index results in an `ArrayIndexOutOfBoundsException`.
-
-**4. Write a program to demonstrate `ClassNotFoundException` in Java.**
+     - **Explanation**: This exception occurs when trying to access an array index that does not exist.
+   
+**4. Write a program to demonstrate `ClassNotFoundException` in Java? Can you give an example?**
    - _It occurs when a class is referenced but cannot be found during runtime._  
-     - **Solution**: When a class cannot be found at runtime, a `ClassNotFoundException` is thrown.
-
-**5. Write a program to demonstrate `FileNotFoundException` in Java.**
+     - **Explanation**: This exception occurs when trying to load a class dynamically that isn't found in the classpath.
+   
+**5. Write a program to demonstrate `FileNotFoundException` in Java? Can you demonstrate its usage with throw and throws?**
    - _This exception is thrown when an attempt to open a file fails because it does not exist._  
-     - **Solution**: Trying to open a non-existent file leads to a `FileNotFoundException`.
+     - **Explaination**: **throws**: Used in the method signature to declare that the method may throw an exception, informing the caller to handle it.
+                     **throw**: Used within the method to manually throw an exception.
 
-**6. Write a program to demonstrate `NumberFormatException` in Java.**
+**6. Write a program to demonstrate `NumberFormatException` in Java? Use try-catch-finally to handle it.**
    - _It happens when you try to convert a string into a numeric type, but the string format is incorrect._  
-     - **Solution**: An invalid string format leads to a `NumberFormatException`.
+     - **Explanation**: **finally**: Always executes, whether an exception is caught or not, for cleanup actions.
 
 **7. Write a program to demonstrate `IllegalArgumentException` in Java.**
    - _Thrown when a method receives an argument that is inappropriate or illegal for its operation._  

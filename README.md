@@ -6,12 +6,24 @@ Welcome to the **Logical Problems with Solutions** repository! ⚡ This reposito
 ---
 
 
-## 📖 Overview
+# 📖 Overview
 
 This repository covers a wide range of topics, including:
 
-✅ **Top Java Programs to Find Things**: A curated collection of frequently asked Java problems.
+✅ **Top Java Programs to Find Things using Core Java & Java 8**: A thoughtfully selected set of commonly encountered Java problems.  
+
  - Each problem is accompanied by a detailed solution with explanations and comments to ensure clarity and understanding.
+
+✅ **Practical Demonstrations of Common Exceptions - Basic and Advanced Scenarios**: Hands-on examples showcasing how to identify, understand, and handle various exceptions in Java, from basic to advanced scenarios.
+
+
+---
+
+## 🔧 Technologies Used
+- Core Java
+- Java 8 Features
+  - Streams API
+- Exception Handling
 
 ---
 

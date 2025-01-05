@@ -1,4 +1,4 @@
-// Write a program to demonstrate ArrayIndexOutOfBoundsException in Java.
+// Write a program to demonstrate ArrayIndexOutOfBoundsException in Java & use try catch to handle exception ?
 
 package com.codingchallenges.solution.exceptions.basicexception;
 

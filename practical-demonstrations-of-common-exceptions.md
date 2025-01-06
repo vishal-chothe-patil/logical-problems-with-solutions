@@ -35,22 +35,25 @@ This section contains Java programs demonstrating various common exceptions, alo
    - _It happens when you try to convert a string into a numeric type, but the string format is incorrect._  
      - **Explanation**: **finally**: Always executes, whether an exception is caught or not, for cleanup actions.
 
-**7. Write a program to demonstrate `IllegalArgumentException` in Java.**
+**7. Write a program to demonstrate `IllegalArgumentException` in Java?**
    - _Thrown when a method receives an argument that is inappropriate or illegal for its operation._  
-     - **Solution**: Passing an inappropriate argument triggers an `IllegalArgumentException`.
+     - **Explanation**: Illegal arguments passed to a method can result in this exception. It is explicitly thrown using the throw keyword.
 
-**8. Write a program to demonstrate `IOException` in Java.**
+**8. Write a program to demonstrate `IOException` in Java? Can you show an example with throws?**
    - _This exception is thrown when an I/O operation (like reading or writing a file) fails._  
-     - **Solution**: An I/O operation failure throws an `IOException`.
+     - **Exaplination**: Attempt to write to the read-only file (this will cause an IOException) and IOException is thrown during file operations like reading & writing a file.
 
-**9. Write a program to demonstrate `ConcurrentModificationException` in Java.**
+**9. Write a program to demonstrate `ConcurrentModificationException` in Java? Write an example.**
    - _It occurs when a collection is modified while it is being iterated over._  
-     - **Solution**: Modifying a collection while iterating it results in a `ConcurrentModificationException`.
+     - **Explanation**: This exception occurs when a collection is modified structurally while iterating over it.
 
-**10. Write a program to demonstrate `TimeoutException` in Java.**
+**10. Write a program to demonstrate `TimeoutException` in Java? How can it be handled?**
    - _Thrown when a blocking operation exceeds the time limit._  
-     - **Solution**: A blocking operation exceeding the time limit results in a `TimeoutException`.
-
-**11. Write a program to demonstrate `SQLException` in Java.**
+     - **Explanation**: TimeoutException is often used in concurrent or asynchronous operations when an expected operation exceeds its time limit.
+     
+**11. Write a program to demonstrate `SQLException` in Java? How can it be handled?**
    - _This exception occurs when there is an issue related to database connectivity, SQL query syntax, invalid database access, or issues with database resources like a timeout or failure to establish a connection._  
-     - **Solution**: A `SQLException` can be thrown due to various reasons, such as incorrect SQL syntax, issues with the database connection (e.g., network problems, unavailable database server), invalid query parameters, or resource limitations during query execution.
+     - **Explanation**: A `SQLException` can be thrown due to various reasons, such as incorrect SQL syntax, issues with the database connection (e.g., network problems, unavailable database server), invalid query parameters, or resource limitations during query execution.
+
+---
+

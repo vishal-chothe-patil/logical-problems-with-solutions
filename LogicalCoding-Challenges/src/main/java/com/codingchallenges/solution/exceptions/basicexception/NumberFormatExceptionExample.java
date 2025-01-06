@@ -3,15 +3,15 @@
 package com.codingchallenges.solution.exceptions.basicexception;
 
 public class NumberFormatExceptionExample {
-	
-    public static void main(String[] args) {
-    	
-        try {
-            int num = Integer.parseInt("ABC"); // Invalid conversion
-        } catch (NumberFormatException e) {
-            System.out.println("Caught NumberFormatException: " + e.getMessage());
-        } finally {
-            System.out.println("Finally block executed.");
-        }
-    }
+
+	public static void main(String[] args) {
+		String str = "abc";
+		try {
+			int num = Integer.parseInt(str); // Invalid conversion
+		} catch (NumberFormatException e) {
+			System.out.println("Caught NumberFormatException: " + e.getMessage());
+		} finally {
+			System.out.println("Finally block executed.");
+		}
+	}
 }

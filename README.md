@@ -14,15 +14,14 @@ This repository covers a wide range of topics, including:
 
  - Each problem is accompanied by a detailed solution with explanations and comments to ensure clarity and understanding.
 
-✅ **Practical Demonstrations of Common Exceptions - Basic and Advanced Scenarios**: Hands-on examples showcasing how to identify, understand, and handle various exceptions in Java, from basic to advanced scenarios.
-
+✅ **Practical Demonstrations of Common Exceptions - Basic and Advanced Scenarios**: Hands-on examples illustrating how to identify, understand, and handle various exceptions in Java, ranging from basic to advanced scenarios.
+ - **Basic Exceptions ⚠️**: Top 11 Basic Exceptions and how to handle them using appropriate keywords.
 
 ---
 
 ## 🔧 Technologies Used
-- Core Java
-- Java 8 Features
-  - Streams API
+- Core Java & Java 8 Features
+  - Streams API (Java 8)
 - Exception Handling
 
 ---

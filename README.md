@@ -15,9 +15,9 @@ This repository covers a wide range of topics, including:
  - Each problem is accompanied by a detailed solution with explanations and comments to ensure clarity and understanding.
 
 ✅ **Practical Demonstrations of Common Exceptions - Basic and Advanced Scenarios**: Hands-on examples illustrating how to identify, understand, and handle various exceptions in Java, ranging from basic to advanced scenarios.
- - **Basic Exceptions ⚠️**: Top 11 Basic Exceptions and how to handle them using appropriate keywords.
- - **Handling Exceptions** 🛠️: Demonstrating how to handle exceptions using the five main keywords in Java —> try, catch, finally, throw, and throws with practical examples for each.
-
+ - **Basic Exceptions ⚠️:** Top 11 Basic Exceptions and how to handle them using appropriate keywords.
+ - **Handling Exceptions 🛠️:** Demonstrating how to handle exceptions using the five main keywords in Java —> try, catch, finally, throw, and throws with practical examples for each.
+ - **Advanced Concepts 🔍:** Exploring advanced techniques in exception handling for creating robust Java applications : Advanced techniques include rethrowing exceptions, linking root causes with exception chaining, managing suppressed exceptions in `try-with-resources`, creating custom exceptions with additional fields, and handling exceptions in lambda expressions for functional programming.  
 
 ---
 

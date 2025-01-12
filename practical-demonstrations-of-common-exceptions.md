@@ -32,7 +32,6 @@ This section contains Java programs demonstrating various common exceptions, alo
 
 11. Write a program to demonstrate `SQLException` in Java? How can it be handled?
 
-
 ---
 
 ## **Handling Exceptions** 🛠️
@@ -46,3 +45,21 @@ This section contains Java programs demonstrating various common exceptions, alo
 4. Write a program to throw a custom exception using the `throw` keyword.
 
 5. How can you create and use a `custom exception class` in Java?
+
+---
+
+## **Advanced Concepts** 🔍
+
+1. How do you `rethrow an exception` in Java?
+
+2. What is `exception chaining`, and how is it implemented?
+
+3. What are `suppressed exceptions`, and how are they managed in `try-with-resources`?
+
+4. How do you create a `custom exception with additional fields` for more information?
+
+5. How can you handle `exceptions in lambda expressions`?
+
+---
+
+

@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 
 public class LoggerExceptionExample {
 	
-	private static final Logger logger = LoggerFactory.getLogger(LoggingExceptionDemo.class);
+	private static final Logger logger = LoggerFactory.getLogger(LoggerExceptionExample.class);
 
 	public static void main(String[] args) {
 		try {

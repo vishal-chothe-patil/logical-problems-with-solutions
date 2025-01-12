@@ -1,6 +1,6 @@
 package com.codingchallenges.solution.exceptions.advanceconcept;
 
-public class ChainingException {
+public class ExceptionChainingExample2 {
     public static void main(String[] args) {
         try {
             method1();

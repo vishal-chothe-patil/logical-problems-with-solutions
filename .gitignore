@@ -21,7 +21,7 @@ target/
 .mvn
 java-programs-to-find-things.md
 practical-demonstrations-of-common-exceptions.md
-
+.gitignore
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/

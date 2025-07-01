@@ -1,4 +1,4 @@
-package com.codingchallenges.solution.tofind;
+package main.java.com.codingchallenges.solution.tofind.withjava8;
 
 import java.util.Arrays;
 import java.util.Comparator;
